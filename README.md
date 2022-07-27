@@ -1,4 +1,4 @@
-<a href="https://ibb.co/7tBMXBY" ><img  align="center"  width="1000px" src="https://i.ibb.co/chRf1Rg/ex-2.gif" alt="ex-2" border="0"></a>
+<a href="https://ibb.co/7tBMXBY" ><img  align="center"  height="300vh" src="https://i.ibb.co/chRf1Rg/ex-2.gif" alt="ex-2" border="0"></a>
 <h1 align="center">Hi 👋, I'm Ravindra puri</h1>
 <h3 align="center">A passionate Full Stack Developer from India</h3>
 <img align="right" alt="code" src="https://miro.medium.com/max/1360/1*IRGHmiGsa16stedQvIaZfw.gif" width="400px">
